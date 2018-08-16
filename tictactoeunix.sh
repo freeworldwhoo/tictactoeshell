@@ -220,7 +220,7 @@ while :
 	 case $a in
 		 [Yy]* )
 			 clear
-			 ./tictactoe.sh
+			 ./tictactoeunix.sh
 			 break
 			 ;;
 		 * )
