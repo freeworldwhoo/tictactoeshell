@@ -201,7 +201,7 @@ do
 
 	if [ "$l" = "1" ]
 	then
-		echo "you are the winer"
+		echo "you are the winner"
 		break
 	elif [ "$l" = "2" ]
 	then
@@ -209,11 +209,11 @@ do
 		break
 	elif [ "$m" = "0" ]
 	then
-		echo "no one win"
+		echo "no one won"
 		break
 	fi
 done
-echo "do you wan to play again?"
+echo "do you want to play again?"
 while :
  do
 	 read a
